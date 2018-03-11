@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="search_bg">#09a3db</color>
+    <color name="tabcolor">#FFF</color>
+    <color name="bridgebetweencolleges">#6699ff</color>
+    <color name="bridgebetweencolleges_bg">#f2f2f2</color>
+    <color name="view_bg">#66cccccc</color>
+    <color name="internshipcolor">#ff6699</color>
+    <color name="companycolor">#cccccc</color>
+    <color name="textview_loading">#333333</color>
+    <color name="textviewheicolor">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="tab_blue">#08B5F2</color>
+    <color name="mine_two_bg_blue">#03B0F4</color>
+    <color name="bot_line">#CECECE</color>
+    <color name="main_item_text">#999999</color>
+    <color name="enter_btn">#ebebeb</color>
+    <color name="pro_bg">#F2F2F2</color>
+    <color name="time_line_bg">#f7f9fa</color>
+    <color name="answ_ch">#46d443</color>
+    <color name="main_bg">#F5EFEE</color>
+    <color name="textview_tv1">#333333</color>
+    <color name="textview_tv2">#666666</color>
+    <color name="textview_tv3">#999999</color>
+    <color name="textview_tv5">#cccccc</color>
+    <color name="registtv1">#d3d3d3</color>
+    <color name="textview_c1">#666666</color>
+    <color name="textview_c2">#FF0000</color>
+    <color name="textview_c4">#ffffff</color>
+    <color name="textview_c5">#000000</color>
+    <color name="edittextnum_s">#FF0000</color>
+    <color name="grey">#808080</color>
+    <color name="blue_com">#82D8FB</color>
+    <color name="balance_col">#46ACF0</color>
+    <color name="getcode_col">#f6eeee</color>
+    <color name="bot_sele_col">#e5e3e3</color>
+    <color name="bot_two_sele_col">#08a4de</color>
+    <color name="chart_checked">#FF4633</color>
+    <color name="tishi_col">#ff3333</color>
+    <color name="vip_col">#fb612b</color>
+    <!--新校企桥首页-->
+    <color name="tab_color">#1983d1</color>
+    <color name="new_tab_color">#1673b8</color>
+    <color name="degdre_border_bg">#faad9d</color>
+    <color name="degdre_bg">#fef6ee</color>
+    <color name="degdre_like_bg">#ef3b3e</color>
+    <color name="degdre_pay_bg">#d6ab59</color>
+
+    <!--签到-->
+    <color name="sign_one">#f1f1f1</color>
+    <color name="sign_fill">#fce5ca</color>
+    <color name="sign_bg">#fde5cb</color>
+    <color name="sign_break_bg">#FFD305</color>
+    <color name="sign_border">#e7aa67</color>
+    <color name="sign_two">#ef5553</color>
+
+    <!--简档-->
+    <color name="resume_tab">#0098B0</color>
+    <color name="resume_pink">#ff3366</color>
+    <color name="resume_green">#009999</color>
+    <color name="resume_orange">#ff9900</color>
+    <color name="resume_purple">#9933ff</color>
+</resources>
